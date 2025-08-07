@@ -1,4 +1,4 @@
-from robot.PCA9685 import PCA9685
+from Robot.PCA9685 import PCA9685
 from time import sleep
 
 modulo = PCA9685()
